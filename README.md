@@ -4,4 +4,5 @@
 - 📫 You can reach me at dearturkan@gmail.com
 
 <h3>Connect with me</h3>
-<img href="https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png" style="width: 24px; height: 24px;" />
+###Connect with me:
+![Instagram](https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png)
