@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan.</h1>
 👀 I’m interested in software. <br>
-🌱 I’m currently learning Laravel and Vue.js  <br>
+🌱 I am currently learning Artificial Intelligence and Mobile  <br>
 📫 You can reach me at dearturkan@gmail.com  <br>
 
 <h3 align="left">Connect with me:</h3>
